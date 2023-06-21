@@ -1,1 +1,3 @@
-this is a readme file adjusted
+This is a readme file adjusted
+
+Currently working on my Jenkins project.
